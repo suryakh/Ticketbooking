@@ -1,0 +1,31 @@
+.layoutholder{
+    border: 1px solid red;
+    text-align: center;
+}
+.layoutholder {
+border: 3px solid orange;
+}
+
+.layoutholder button {
+    height: 20px;
+    width: 20px;
+}
+.layoutholder button {
+    margin: 50px;
+    font-size: 8px;
+}
+.screen {
+    background-color: gray;
+    text-align: center;
+}
+#booknow {
+    width: 200px;
+}
+
+#bookingslot {
+
+    border: 2px solid orange;
+}
+.hidden {
+    display: none;
+}

@@ -1,0 +1,16 @@
+/* .container {
+    background-color: red;
+} */
+
+.nav {
+    height: 50px;
+    background-color:blue;
+}
+
+img {
+    height: 200px;
+    border: 2px solid black;
+}
+.cardholder {
+    border: 1px solid black;
+}
