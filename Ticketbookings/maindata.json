@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "movieName": "Iron man",
+        "genre": "Mystery,Drama,Action",
+        "language": "English,Hindi",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/0/00/Iron_Man_poster.jpg",
+        "releaseDate": "2017",
+        "ratings": "4.9"
+    },
+    {
+        "id": 2,
+        "movieName": "24",
+        "genre": "Sci-fic,Romance",
+        "language": "Telugu,Hindi",
+        "poster": "https://static.moviecrow.com/gallery/20151123/76633-CUhH4GrUcAEkpdB.jpg",
+        "releaseDate": "2017",
+        "ratings": "4.9"
+    },
+    {
+        "id": 3,
+        "movieName": "A Quite place",
+        "genre": "Horror,Drama",
+        "language": "Kannada,Hindi,Tamil",
+        "poster": "https://images-na.ssl-images-amazon.com/images/I/51U49dJBouL.jpg",
+        "releaseDate": "2017",
+        "ratings": "4.9"
+    },
+    {
+        "id": 4,
+        "movieName": "CoCo",
+        "genre": "Comedy,Animation",
+        "language": "English,Kannada,Tamil",
+        "poster": "https://i.ebayimg.com/images/g/QZcAAOSwh41apSKg/s-l300.jpg",
+        "releaseDate": "2017",
+        "ratings": "4.9"
+    },
+    {
+        "id": 5,
+        "movieName": "Bighero 6",
+        "genre": "Animation,Drama,Action",
+        "language": "English,Hindi,Telugu,Tamil",
+        "poster": "https://cdn.europosters.eu/image/750/posters/big-hero-6-team-i23280.jpg",
+        "releaseDate": "2017",
+        "ratings": "4.9"
+    },
+    {
+        "id": 6,
+        "movieName": "Honeyland",
+        "genre": "Documentry",
+        "language": "Tamil,English",
+        "poster": "https://static1.showtimes.com/poster/660x980/honeyland-138784.jpg",
+        "releaseDate": "2017",
+        "ratings": "4.9"
+    },
+    {
+        "id": 7,
+        "movieName": "The Lion King",
+        "genre": "Animation,Drama",
+        "language": "English",
+        "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuhgBlPlz9H3Y8hIyOVL0hMALI-t512zwqZZRdMJ4lw9q_NfMx",
+        "releaseDate": "2017",
+        "ratings": "4.9"
+    },
+    {
+        "id": 8,
+        "movieName": "Alita: Battle Angel",
+        "genre": "Animation,Sci-fic",
+        "language": "Hindi",
+        "poster": "https://i0.wp.com/www.itncart.com/wp-content/uploads/2018/06/Alita-Battle-Angel-Poster.jpg?resize=600%2C871&ssl=1",
+        "releaseDate": "2017",
+        "ratings": "4.9"
+    },
+    {
+        "id": 9,
+        "movieName": "Blade Runner 2049",
+        "genre": "War,Action",
+        "language": "Telugu,Kannada,Tamil",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg",
+        "releaseDate": "2017",
+        "ratings": "4.9"
+    },
+    {
+        "id": 10,
+        "movieName": "It Chapter Two",
+        "genre": "Horror,Drama,English",
+        "language": "Tamil,Kannada",
+        "poster": "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/it_chapter_two_ver5_xlg.jpg",
+        "releaseDate": "2017",
+        "ratings": "4.9"
+    },
+    {
+        "id": 11,
+        "movieName": "Captain Marvel",
+        "genre": "Sci-fic,Drama,Action",
+        "language": "English,Hindi,Telugu",
+        "poster": "https://i.etsystatic.com/15963200/r/il/30e062/1771410776/il_570xN.1771410776_73lr.jpg",
+        "releaseDate": "2017",
+        "ratings": "4.9"
+    },
+    {
+        "id": 12,
+        "movieName": "Star Wars",
+        "genre": "Action,Drama",
+        "language": "English,Hindi,Kannada",
+        "poster": "https://movieposterhd.com/wp-content/uploads/2019/12/Star-Wars-The-Rise-of-Skywalker-Poster-HD-.jpg",
+        "releaseDate": "2017",
+        "ratings": "4.9"
+    }
+]

@@ -29,3 +29,21 @@ border: 3px solid orange;
 .hidden {
     display: none;
 }
+.navbar {
+    height: 50px;
+    width: 100%;
+    color: white;
+    font-weight: bolder;
+    background-color:blue;
+}
+/* .card {
+} */
+#ticketholder {
+    border: 2px solid red;
+    height:500px;
+}
+
+#ticketholder img {
+    height: 200px;
+    width: 200px;
+}
